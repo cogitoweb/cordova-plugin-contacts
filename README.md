@@ -19,7 +19,7 @@
 
 # cordova-plugin-contacts
 
-## This README is not very reliable... so keep your eyes open
+### This README is not very reliable...so keep your eyes open
 
 This plugin defines a global `navigator.contacts` object, which provides access to the device contacts database.
 
@@ -51,15 +51,9 @@ contact data.  For more information, please see the Privacy Guide.
 
 ## Installation
 
-This requires cordova 5.0+ ( current stable v1.0.0 )
+It is also possible to install via repo url directly (CGT)
 
-    cordova plugin add cordova-plugin-contacts
-Older versions of cordova can still install via the __deprecated__ id ( stale v0.2.16 )
-
-    cordova plugin add org.apache.cordova.contacts
-It is also possible to install via repo url directly ( unstable )
-
-    cordova plugin add https://github.com/apache/cordova-plugin-contacts.git
+    cordova plugin add https://github.com/cogitoweb/cordova-plugin-contacts.git
 
 
 ### Firefox OS Quirks
