@@ -19,6 +19,8 @@
 
 # cordova-plugin-contacts
 
+## This README is not very reliable... so keep your eyes open
+
 This plugin defines a global `navigator.contacts` object, which provides access to the device contacts database.
 
 Although the object is attached to the global scoped `navigator`, it is not available until after the `deviceready` event.
